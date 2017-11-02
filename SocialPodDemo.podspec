@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/Narendra25121989/SocialPodDemo.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = ‘8.0’
-  s.source_files = 'SocialPodDemo/FBHelper.swift'
+  s.source_files = 'SocialPodDemo/ViewController.swift'
 
 end
